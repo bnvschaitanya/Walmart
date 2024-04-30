@@ -1,2 +1,3 @@
-hi this is my first line from master
+hi this is my first line from dev
+this is second line
 
